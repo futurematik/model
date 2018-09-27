@@ -1,7 +1,7 @@
 {
   "name": "@fmtk/model",
   "private": false,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easy model definitions in TypeScript",
   "main": "dist/index.js",
   "repository": "https://github.com/futurematik/model",
